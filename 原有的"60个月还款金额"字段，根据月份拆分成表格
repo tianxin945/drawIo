@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T05:16:01.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="01nH_ILPp_QdVR3RpSyZ" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T05:22:47.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ezDzhStw1WTezx-hsVX8" version="13.9.7" type="github">
   <diagram id="UaRshfvaUlX7V1QdKVhg" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AkVOvRy03Fdd3OYmRKyB-2" value="：this.splitRepayment Amount60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AkVOvRy03Fdd3OYmRKyB-3" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AkVOvRy03Fdd3OYmRKyB-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="635" y="140" width="10" height="80" as="geometry" />
+          <mxGeometry x="635" y="110" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AkVOvRy03Fdd3OYmRKyB-15" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" target="AkVOvRy03Fdd3OYmRKyB-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -63,8 +63,20 @@
         </mxCell>
         <mxCell id="AkVOvRy03Fdd3OYmRKyB-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="395" y="159.5" as="sourcePoint" />
-            <mxPoint x="630" y="160" as="targetPoint" />
+            <mxPoint x="397.5" y="150" as="sourcePoint" />
+            <mxPoint x="632.5" y="150.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-20" value="依据，拆分，并封装对象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="150" as="sourcePoint" />
+            <mxPoint x="800" y="150.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
