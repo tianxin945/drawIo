@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T06:27:10.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bctkSopSmEBKYxLnE2A3" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T07:16:33.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="rUhK-5f-77Zfr4e81AKv" version="13.9.7" type="github" pages="2">
   <diagram id="UaRshfvaUlX7V1QdKVhg" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -94,6 +94,26 @@
         </mxCell>
         <mxCell id="AkVOvRy03Fdd3OYmRKyB-52" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;传入List&amp;lt;CreditReportPastdeerecord&amp;gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="310" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NTVpbBz8j5ZGq5zgDsVA" name="Page-2">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="JBBTbZVt0nwUii08e3AD-0" />
+        <mxCell id="JBBTbZVt0nwUii08e3AD-1" parent="JBBTbZVt0nwUii08e3AD-0" />
+        <mxCell id="JBBTbZVt0nwUii08e3AD-2" value="TemplateResource：" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="JBBTbZVt0nwUii08e3AD-1">
+          <mxGeometry x="90" y="60" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="JBBTbZVt0nwUii08e3AD-3" value="TemplateService：" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="JBBTbZVt0nwUii08e3AD-1">
+          <mxGeometry x="280" y="60" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="JBBTbZVt0nwUii08e3AD-4" value="TemplateMapper：" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="JBBTbZVt0nwUii08e3AD-1">
+          <mxGeometry x="470" y="60" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="JBBTbZVt0nwUii08e3AD-5" value="：DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="JBBTbZVt0nwUii08e3AD-1">
+          <mxGeometry x="660" y="60" width="100" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
