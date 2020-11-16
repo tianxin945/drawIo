@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T03:53:17.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="M4_NrX_983QtMYgicWJX" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T05:16:01.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="01nH_ILPp_QdVR3RpSyZ" version="13.9.7" type="github">
   <diagram id="UaRshfvaUlX7V1QdKVhg" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AkVOvRy03Fdd3OYmRKyB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-1" value="CreditReportService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AkVOvRy03Fdd3OYmRKyB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-2" value="：this.splitRepayment Amount60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AkVOvRy03Fdd3OYmRKyB-3" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
@@ -32,6 +32,39 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="652" as="sourcePoint" />
             <mxPoint x="390" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="125" y="149.5" as="sourcePoint" />
+            <mxPoint x="380" y="149.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-11" value="传入待拆分对象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-12" value="：this.insert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-13" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="AkVOvRy03Fdd3OYmRKyB-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="640" as="sourcePoint" />
+            <mxPoint x="639.5" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="635" y="140" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-15" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" target="AkVOvRy03Fdd3OYmRKyB-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="640" as="sourcePoint" />
+            <mxPoint x="639.5" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkVOvRy03Fdd3OYmRKyB-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="395" y="159.5" as="sourcePoint" />
+            <mxPoint x="630" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
