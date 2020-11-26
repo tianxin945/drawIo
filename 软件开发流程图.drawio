@@ -1,1 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T08:44:45.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.9.9" etag="sU7mjKkmxG8QaOYIbexn" type="github"><diagram id="5Ikeh08VeuHV5kHU3ge6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T09:10:09.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qWm2rAMPJnKZ_6Aa1N9s" version="13.9.9" type="github" pages="2">
+  <diagram id="5Ikeh08VeuHV5kHU3ge6" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DGQGoDF16x-tlokxx9S7" name="第 2 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="iQo1qhajtw42xaScCPli-0" />
+        <mxCell id="iQo1qhajtw42xaScCPli-1" parent="iQo1qhajtw42xaScCPli-0" />
+        <mxCell id="iQo1qhajtw42xaScCPli-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iQo1qhajtw42xaScCPli-1">
+          <mxGeometry x="60" y="10" width="1270" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="iQo1qhajtw42xaScCPli-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="iQo1qhajtw42xaScCPli-1">
+          <mxGeometry x="1270" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iQo1qhajtw42xaScCPli-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iQo1qhajtw42xaScCPli-1">
+          <mxGeometry x="60" y="10" width="220" height="740" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
